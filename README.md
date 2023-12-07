@@ -1,0 +1,1 @@
+https://thestupids.vercel.app
